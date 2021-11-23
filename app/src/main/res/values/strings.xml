@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Rss</string>
+    <string name="refresh">Refresh</string>
+    <string name="add">Add</string>
+    <string name="default_title">Title</string>
+    <string name="default_publish_date">2017-05-13 12:30:00</string>
+    <string name="default_content">Content</string>
+    <string name="cancel">Cancel</string>
+    <string name="default_author">by Author</string>
+    <string name="developer_info_title">Zakharenko Valerij</string>
+    <string name="developer_info_university">Group 791051</string>
+    <string name="developer_info_links">https://github.com/ikonvpalto</string>
+    <string name="close">Close</string>
+    <string name="developer">Developer</string>
+</resources>
